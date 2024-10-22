@@ -36,11 +36,20 @@ This repo is for notes related to learning about Helm. Notes have been organized
       - [Hook Weights](./03-Advanced-Features.md#hook-weights)
       - [Types of Hooks](./03-Advanced-Features.md#types-of-hooks)
       - [Hook Examples](./03-Advanced-Features.md#hook-examples)
-
+- [Packaging Signing and Uploading](./04-Packaging-Signing-Upload.md)
+   - [Packaging](./04-Packaging-Signing-Upload.md#packaging)
+   - [Creating a Key](./04-Packaging-Signing-Upload.md#creating-a-key)
+   - [Signing](./04-Packaging-Signing-Upload.md#signing)
+   - [Provenance film](./04-Packaging-Signing-Upload.md#provenance-film)
+   - [Importing and Verifying a Chart](./04-Packaging-Signing-Upload.md#importing-and-verifying-a-chart)
+   - [Uploading](./04-Packaging-Signing-Upload.md#uploading)
+      - [Generate the index.yaml file](./04-Packaging-Signing-Upload.md#generate-the-indexyaml-file)
+      - [Possible Upload Providers](./04-Packaging-Signing-Upload.md#possible-upload-providers)
 
 ## Resources 
 
 - [glasskube-tutorial](https://glasskube.dev/blog/what-is-helm-in-kubernetes/)
+- [Semantic Versioning 2.0.0](https://semver.org)
 
 
 ## Chapter Sections 
