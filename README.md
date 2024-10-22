@@ -26,7 +26,17 @@ This repo is for notes related to learning about Helm. Notes have been organized
       - [Dry Run](./02-Anatomy-of-Helm-Charts.md#dry-run)
    - [Functions](./02-Anatomy-of-Helm-Charts.md#functions)
    - [Pipelines](./02-Anatomy-of-Helm-Charts.md#pipelines)
-   - [Conditionals](./02-Anatomy-of-Helm-Charts.md#conditionals)
+- [Logical Operators](./03-Advanced-Features.md)
+   - [Conditionals](./03-Advanced-Features.md#conditionals)
+   - [Logical Function Operators](./03-Advanced-Features.md#logical-function-operators)
+   - [With Blocks / Scoping](./03-Advanced-Features.md#with-blocks--scoping)
+   - [Ranges (Loops)](./03-Advanced-Features.md#ranges-loops)
+   - [Named Templates](./03-Advanced-Features.md#named-templates)
+   - [Chart Hooks](./03-Advanced-Features.md#chart-hooks)
+      - [Hook Weights](./03-Advanced-Features.md#hook-weights)
+      - [Types of Hooks](./03-Advanced-Features.md#types-of-hooks)
+      - [Hook Examples](./03-Advanced-Features.md#hook-examples)
+
 
 ## Resources 
 
